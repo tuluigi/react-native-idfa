@@ -1,6 +1,6 @@
 {
-  "name": "react-native-idfa",
-  "version": "4.1.0",
+  "name": "react-native-idfa-pro",
+  "version": "1.0.0",
   "description": "Android and iOS module for react-native to read IDFA (advertising identifier)",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ptomasroos/react-native-idfa.git"
+    "url": "git+https://github.com/tuluigi/react-native-idfa"
   },
   "keywords": [
     "react-native-idfa",
@@ -52,7 +52,7 @@
     "release-it": "^7.6.3"
   },
   "bugs": {
-    "url": "https://github.com/ptomasroos/react-native-idfa/issues"
+    "url": "https://github.com/tuluigi/react-native-idfa/issues"
   },
-  "homepage": "https://github.com/ptomasroos/react-native-idfa#readme"
+  "homepage": "https://github.com/tuluigi/react-native-idfa#readme"
 }
